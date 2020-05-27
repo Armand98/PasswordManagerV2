@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/Paomedia-Small-N-Flat-Key.ico</file>
+    </qresource>
+</RCC>
